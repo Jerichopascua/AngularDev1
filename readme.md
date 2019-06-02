@@ -98,7 +98,7 @@ Directives
 -	Usually begins with ‘ng-‘ or ‘data-ng’
 
 Sample
-
+//main.html
 <html ng-app>
 	<head>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0/angular.js"></script>
